@@ -17,7 +17,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
-npm install
+npm install --registry=https://registry.npmmirror.com
 ```
 
 ### Compile and Hot-Reload for Development
